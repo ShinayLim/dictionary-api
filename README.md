@@ -1,4 +1,4 @@
-**Dictionary App**
+# Dictionary App
 
 A simple and elegant dictionary web application built using HTML, CSS, and JavaScript. The app allows users to search for word meanings and pronunciations using the [Dictionary API](https://api.dictionaryapi.dev/api/v2/entries/en/). It features a clean user interface with a search box, word details display, and pronunciation audio playback.
 
